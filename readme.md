@@ -6,18 +6,23 @@ Laboratory basic training. The goal is to achieve that we can quickly start to m
 
 该项目提供的指引主要以java技术栈为主的培训，并提供其他的一些指引方向。如果有其他的建议可以提交fork或issue。
 
+在学习之前，建议您先fork此工程！
+
 # 主要内容
 
+以下的学习顺序，仅仅是推荐！可以灵活学习~
+
+- [IDEA 等 Coding 工具](/doc/idea)
+- [git](/doc/git)
 - java 入门
+- DB 数据库
+- [maven](/doc/maven)
 - java 进阶
 - java 高阶
-- [maven](/doc/maven)
-- git
-- DB 数据库
 - 前端基础
 - 前端进阶
 - 前端高阶
-- Coding 工具
+
 - Spider 爬虫
 - Server 服务器（windows/linux）
 - NLP 自然语言处理工具
