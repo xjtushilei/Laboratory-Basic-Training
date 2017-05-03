@@ -1,14 +1,22 @@
 
+[TOC]
+
+
+
 这里是全篇学习的开始。
 
 良好的基础是学习进步的阶梯！
 
+顺手的工具是强大的生产力！
+
 
 # IDEA
 
+java不用ide，真的是浪费时间和精力，即便再大的神也推荐用。
+
 IDEA可以默认写java、xml、js、html、css、md、json等等，java技术栈支持特别友好！
 
-# 渊源
+## 渊源
 
 个人是一个资深的eclipse使用者，在使用过几次后，慢慢的接收，并深爱上它。
 
@@ -30,7 +38,7 @@ IDEA可以默认写java、xml、js、html、css、md、json等等，java技术�
 - 一个窗口只能打开一个项目，现在已经很习惯了。eclipse多项目确实爽
 - maven pom写了一半，不用保存就会update。或许我配置不好，改天再看看。
 
-# IDEA 安装
+## IDEA 安装
 
 官网下载 ！ 推荐`Ultimate`版本，需要license请email至`xjtushilei@foxmail.com`
 
@@ -38,14 +46,35 @@ IDEA可以默认写java、xml、js、html、css、md、json等等，java技术�
 
 如果没有购买license，可以之后再注册，先试用。
 
-# IDEA熟悉
+## IDEA熟悉
 
 设置的熟悉，自己点开多看一下。并打开自动补全（默认只有首字母自动补全），调整字体，主题等。
 
 多创建几个工程！写点东西试试。
 
-# python
+## IDEA快捷键
+
+
+<a href='http://xjtushilei.com/wiki/idea/' target='_blank'>IDEA 十大快捷键</a>是我博客的一篇wiki，可以参考。
+
+## IDEA网络代理
+
+如图，在设置的这里，写上你的shadowsocks代理，全局代理，这样在更新版本，push到github时候，速度上M。
+
+![IDEA网络代理](img/1.png)
+
+# pycharm
+
+如果你是一个pythoner，请下载pycharm，或者idea加一个插件就可以了。但是我还是推荐写python用pycharm。项目管理，代码提示和包管理等不适普通的编辑器能比的。缺点是没有sublime、notepad++等轻量级。
 
 如果你是一个python新手，建议您先安装 python 3.5，并在[廖雪峰](http://www.liaoxuefeng.com/)的网站进行学习python ！ 不然你会在编码这块就失去了对python的热爱。
 
-如果你是一个pythoner，请下载pycharm，或者idea加一个插件就可以了。但是我还是推荐写python用pycharm。项目管理，代码提示和包管理等不适普通的编辑器能比的。缺点是没有sublime、notepad++等轻量级。
+# Sublime
+
+轻量级的文本编辑器，首推这个。平时简单的修改代码，或者查看文本文件等等。当然用它来写前端更是舒服！写python也很好！
+
+相对于VSCode（也是轻量级的）速度更快，格式更优美，编码更省心。
+
+推荐sublime3，并推荐下载已经集成常用的插件的绿色版，亦可下载绿色版自己安装插件。因为绿色版在放到另一个电脑上上，各种自己的个性化配置不用重新配置。
+
+
