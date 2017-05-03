@@ -26,12 +26,17 @@
 
 ### 免费体验
 
-[ishadow](https://ishadow.404da.com/index_cn.html)获取账号
+[ishadow](https://ishadow.404da.com/index_cn.html)获取账号,或者自己百度
 
 ### 其他
 
 自己在google上搜索shadowsocks服务提供。百度和bing等都不提供搜索服务，有搜索商和zf有合作关系。
 
+### 免费账户
+
+免费的服务质量不是很好，不稳定，关键时刻速度10k/s。google能找到一定的免费提供商。
+
+还有，我们推荐您用海外的linux服务器，自己搭建一个ss服务器。tips：亚马逊学生免费试用一年（2016年可用）。
 
 # 浏览器
 
@@ -47,7 +52,7 @@
 
 我这里推荐几个，如下图
 
-[插件集合](img/1.png)
+![插件集合](img/1.png)
 
 插件功能，百度或者在google商店里搜索查看吧。
 
