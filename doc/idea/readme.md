@@ -1,15 +1,14 @@
-# IDEA
-
 
 这里是全篇学习的开始。
 
 良好的基础是学习进步的阶梯！
 
 
-
 # IDEA
 
 IDEA可以默认写java、xml、js、html、css、md、json等等，java技术栈支持特别友好！
+
+# 渊源
 
 个人是一个资深的eclipse使用者，在使用过几次后，慢慢的接收，并深爱上它。
 
@@ -31,7 +30,7 @@ IDEA可以默认写java、xml、js、html、css、md、json等等，java技术�
 - 一个窗口只能打开一个项目，现在已经很习惯了。eclipse多项目确实爽
 - maven pom写了一半，不用保存就会update。或许我配置不好，改天再看看。
 
-#　IDEA 安装
+# IDEA 安装
 
 官网下载 ！ 推荐`Ultimate`版本，需要license请email至`xjtushilei@foxmail.com`
 
