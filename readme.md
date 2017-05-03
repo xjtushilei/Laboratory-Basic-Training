@@ -12,6 +12,7 @@ Laboratory basic training. The goal is to achieve that we can quickly start to m
 
 以下的学习顺序，仅仅是推荐！可以灵活学习~
 
+- [科学上网](/doc/shadowsocks)
 - [IDEA 等 Coding 工具](/doc/idea)
 - [git](/doc/git)
 - java 入门
@@ -22,7 +23,6 @@ Laboratory basic training. The goal is to achieve that we can quickly start to m
 - 前端基础
 - 前端进阶
 - 前端高阶
-
 - Spider 爬虫
 - Server 服务器（windows/linux）
 - NLP 自然语言处理工具

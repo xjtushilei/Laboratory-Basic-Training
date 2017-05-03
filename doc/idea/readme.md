@@ -16,7 +16,7 @@
     - [IDEA 快捷键](#idea-快捷键 )
     - [IDEA 网络代理](#idea-网络代理)
 - [pycharm](#pycharm)
-- [Sublime](#Sublime)
+- [Sublime](#sublime)
 
 
 
