@@ -1,13 +1,23 @@
 
-[toc]
-
-
 
 这里是全篇学习的开始。
 
 良好的基础是学习进步的阶梯！
 
 顺手的工具是强大的生产力！
+
+
+# 目录
+
+- [IDEA](#IDEA)
+    - [渊源](#渊源)
+    - [IDEA 安装](#IDEA-安装)
+    - [IDEA 熟悉](#IDEA-熟悉)
+    - [IDEA 快捷键](#IDEA-快捷键 )
+    - [IDEA 网络代理](#IDEA-网络代理)
+- [pycharm](#pycharm)
+- [Sublime](#Sublime)
+
 
 
 # IDEA
