@@ -1,20 +1,20 @@
 
-
 这里是全篇学习的开始。
 
 良好的基础是学习进步的阶梯！
 
 顺手的工具是强大的生产力！
 
+这里推荐几个编辑器。
 
 # 目录
 
 - [IDEA](#IDEA)
     - [渊源](#渊源)
-    - [IDEA-安装](#idea-安装)
-    - [IDEA-熟悉](#IDEA-熟悉)
-    - [IDEA-快捷键](#IDEA快捷键 )
-    - [IDEA-网络代理](#IDEA网络代理)
+    - [IDEA 安装](#idea-安装)
+    - [IDEA 熟悉](#idea-熟悉)
+    - [IDEA 快捷键](#idea-快捷键 )
+    - [IDEA 网络代理](#idea-网络代理)
 - [pycharm](#pycharm)
 - [Sublime](#Sublime)
 
@@ -62,12 +62,12 @@ IDEA可以默认写java、xml、js、html、css、md、json等等，java技术�
 
 多创建几个工程！写点东西试试。
 
-## IDEA快捷键
+## IDEA 快捷键
 
 
 <a href='http://xjtushilei.com/wiki/idea/' target='_blank'>IDEA 十大快捷键</a>是我博客的一篇wiki，可以参考。
 
-## IDEA网络代理
+## IDEA 网络代理
 
 如图，在设置的这里，写上你的shadowsocks代理，全局代理，这样在更新版本，push到github时候，速度上M。
 
