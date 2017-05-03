@@ -11,10 +11,10 @@
 
 - [IDEA](#IDEA)
     - [渊源](#渊源)
-    - [IDEA 安装](#IDEA-安装)
-    - [IDEA 熟悉](#IDEA-熟悉)
-    - [IDEA 快捷键](#IDEA-快捷键 )
-    - [IDEA 网络代理](#IDEA-网络代理)
+    - [IDEA-安装](#IDEA-安装)
+    - [IDEA-熟悉](#IDEA-熟悉)
+    - [IDEA-快捷键](#IDEA-快捷键 )
+    - [IDEA-网络代理](#IDEA-网络代理)
 - [pycharm](#pycharm)
 - [Sublime](#Sublime)
 
@@ -48,7 +48,7 @@ IDEA可以默认写java、xml、js、html、css、md、json等等，java技术�
 - 一个窗口只能打开一个项目，现在已经很习惯了。eclipse多项目确实爽
 - maven pom写了一半，不用保存就会update。或许我配置不好，改天再看看。
 
-## IDEA 安装
+## IDEA-安装
 
 官网下载 ！ 推荐`Ultimate`版本，需要license请email至`xjtushilei@foxmail.com`
 
@@ -56,18 +56,18 @@ IDEA可以默认写java、xml、js、html、css、md、json等等，java技术�
 
 如果没有购买license，可以之后再注册，先试用。
 
-## IDEA熟悉
+## IDEA-熟悉
 
 设置的熟悉，自己点开多看一下。并打开自动补全（默认只有首字母自动补全），调整字体，主题等。
 
 多创建几个工程！写点东西试试。
 
-## IDEA快捷键
+## IDEA-快捷键
 
 
 <a href='http://xjtushilei.com/wiki/idea/' target='_blank'>IDEA 十大快捷键</a>是我博客的一篇wiki，可以参考。
 
-## IDEA网络代理
+## IDEA-网络代理
 
 如图，在设置的这里，写上你的shadowsocks代理，全局代理，这样在更新版本，push到github时候，速度上M。
 
