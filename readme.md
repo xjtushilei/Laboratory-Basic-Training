@@ -18,11 +18,9 @@ Laboratory basic training. The goal is to achieve that we can quickly start to m
 - java 入门
 - DB 数据库
 - [maven](/doc/maven)
-- java 进阶
-- java 高阶
+- java Web - RestFul 架构 - Spring-boot
 - 前端基础
 - 前端进阶
-- 前端高阶
 - Spider 爬虫
 - Server 服务器（windows/linux）
 - NLP 自然语言处理工具
