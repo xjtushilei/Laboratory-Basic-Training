@@ -15,13 +15,13 @@ Laboratory basic training. The goal is to achieve that we can quickly start to m
 - [科学上网](/doc/shadowsocks)
 - [IDEA 等 Coding 工具](/doc/idea)
 - [git](/doc/git)
-- java 入门
-- DB 数据库
+- [java 入门](/doc/java)
 - [maven](/doc/maven)
-- java Web - RestFul 架构 - Spring-boot
-- 前端基础
-- 前端进阶
-- Spider 爬虫
+- [Spider 爬虫](/doc/spider)
+- [DB 数据库](/doc/db)
+- [java Web - RestFul 架构 - Spring-boot](/doc/JavaWeb)
+- [前端基础](/doc/前端基础)
+- [前端进阶](/doc/前端进阶)
 - Server 服务器（windows/linux）
 - NLP 自然语言处理工具
 - python
