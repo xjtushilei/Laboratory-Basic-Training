@@ -1,6 +1,8 @@
 
 > 这里是打开新世界的大门。
 
+> 推荐使用SSR客户端，在最后，刚开始推荐的ss，已经被国家大规模和谐，据说研究出了最新的干扰算法。
+
 # 客户端
 ### Windows
 
@@ -65,3 +67,36 @@
 然后是`360安全浏览器`，可以用ie兼容模式用来打开古老的网站，比如选课系统。同时可以用来测试自己的网页的ie兼容性。
 
 
+# SSR技术 免费账号
+
+### 客户端
+
+在 github 上下载，https://github.com/shadowsocksr/shadowsocksr-csharp，内容已经没了，但是在releases里可以看到最新的更新客户端。这样可以防和谐。
+
+### 免费账号获取方法
+
+https://plus.google.com/communities/104092405342699579599
+
+然后找到这样的东西 
+
+```
+ssr://NDUuMzIuMTkuMjUxOjQ0MzphdXRoX2FlczEyOF9tZDU6YWVzL
+TI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOk1USXpORFUvP29iZnNw
+YXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz1WblZzZEhJdFZHOXJlVzh
+vTlRBd1ItYTFnZW1Iai1lVXFPV3VqT2FJbHVpQWhlV0lzT1M0Z09TNH
+F1YWNpT2FYdHVtWHRPV3dzVVJsYkNrbzVhLUc1NkNCTVRJek5EVXBLT1
+dJcS1hN3BlZVVxQ2smZ3JvdXA9﻿
+```
+
+直接在ssr客户端里添加上就可以了。
+
+或者自己谷歌“ssr免费账号”，应该有好多网站都提供！这里附上一个：https://doub.io/sszhfx/ ，
+
+当然也可以在“谷歌群组”里，购买付费的，这样相对稳定。
+
+
+### 提醒
+
+所有相关的搜索，请使用谷歌搜索。
+
+所有相关的账号分享网站，一定是翻墙才能上的。
