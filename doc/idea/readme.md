@@ -50,11 +50,11 @@ IDEA可以默认写java、xml、js、html、css、md、json等等，java技术�
 
 ## IDEA 安装
 
-官网下载 ！ 推荐`Ultimate`版本，需要license请email至`xjtushilei@foxmail.com`
+官网下载 ！ 推荐`Ultimate`版本，需要license请注册学生账户认证，免费使用所有软件！提供[链接](https://sales.jetbrains.com/hc/zh-cn/articles/207154369-%E5%AD%A6%E7%94%9F%E6%8E%88%E6%9D%83%E7%94%B3%E8%AF%B7%E6%96%B9%E5%BC%8F),或者百度别人搭建的license server！
 
 安装之前，请先安装jdk（推荐最新版jdk8, jdk9快发布了，鄙视1.7版本以下的，建议官网下载！并安装到默认目录！）环境配置，请严格按照[JDK安装与环境变量配置](http://jingyan.baidu.com/article/6dad5075d1dc40a123e36ea3.html)进行配置。提示：在环境变量中的path中增加东西时候，请尽量放在前面，而不是path最后，因为你会遇到不可预知的bug（比如自己安装的命名是jdk8，测试却是jdk7）
 
-如果没有购买license，可以之后再注册，先试用。
+如果没有购买license，可以之后再注册学生认证，这里先试用。不影响后续注册！
 
 ## IDEA 熟悉
 
